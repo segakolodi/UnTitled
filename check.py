@@ -81,7 +81,7 @@ def main():
         print("Could not generate the image - try adjusting the zoom level and check your coordinates")
         
     else:
-        img.save("Wits_East.png")
+        img.save("WEast.png")
         print("The map has successfuly been created")
         
 if __name__ == '__main__': main()
